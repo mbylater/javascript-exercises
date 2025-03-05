@@ -1,4 +1,3 @@
-// 
 const reverseString = function(string) {
     // Create an empty string to store the result
     let reverse = '';
