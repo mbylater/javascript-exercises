@@ -1,5 +1,0 @@
-function repeatString(array, n) {
-    for (let i = n; i < n; i++) {
-        return array;
-    }
-}
